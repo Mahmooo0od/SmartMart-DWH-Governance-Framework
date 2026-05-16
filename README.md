@@ -30,6 +30,21 @@ The deliverable — `Final_Version_SmartMart_DWH_DataGovernance.xlsx` — is des
 > Without governance, data warehouses become ungovernable over time — conflicting definitions, no accountability, undocumented transformations, and compliance risk. This framework ensures every data element in SmartMart's DWH has a clear owner, definition, lineage, and classification.
 
 ---
+## 📚 Framework & Methodology
+
+This project follows the **DAMA DMBOK v2** (Data Management 
+Body of Knowledge) framework — the globally recognised standard 
+for Data Governance and Data Management.
+
+DAMA Knowledge Areas covered:
+✅ Data Governance
+✅ Data Architecture  
+✅ Data Modelling & Design
+✅ Data Integration & Interoperability (Lineage)
+✅ Metadata Management
+✅ Data Warehousing & BI
+✅ Document & Content Management
+----
 
 ## 🏗️ Architecture
 
